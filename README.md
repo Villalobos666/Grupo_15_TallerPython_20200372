@@ -1,5 +1,7 @@
 # nuevo_repositorio
 Esto es  una prueba  para un  taller 
  ## Subtitulo
--Item 1
--Item2 
+- Punto 1
+- Punto 2
+- Punto 3
+- Punto 4
