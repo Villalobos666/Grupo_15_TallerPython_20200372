@@ -1,7 +1,7 @@
-# nuevo_repositorio
-Esto es  una prueba  para un  taller 
+Esto es una prueba para un taller de python
+# Tareas
+Este repositorio contiene
  ## Subtitulo
-- Punto 1
-- Punto 2
-- Punto 3
-- Punto 4
+- Tarea 1
+- Tarea 2
+- Tarea 3
